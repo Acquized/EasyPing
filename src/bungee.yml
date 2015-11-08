@@ -1,0 +1,5 @@
+name: EasyPing
+version: 1.0
+description: git-EasyPing-61bbe9ba
+author: FlareReturns
+main: xyz.flarereturns.easyping.bungee.Main

@@ -1,0 +1,11 @@
+# -------------------------
+# EasyPing by FlareReturns
+# -------------------------
+
+EasyPing:
+  Prefix: '&7[&aLatency&7]'
+  SuccessOwn: '&7Pong! Your Ping is &2%ping%&7.'
+  SuccessOther: '&7Pong! %name%''s Ping is &2%ping%&7.'
+  Usage: '&cSyntax: /ping [Player]'
+  NoPermission: '&cYou don''t have permission.'
+  NotOnline: '&cThat Player is not online.'

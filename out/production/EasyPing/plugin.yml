@@ -1,0 +1,9 @@
+name: EasyPing
+version: git-EasyPing-61bbe9ba
+description: 1.0
+author: FlareReturns
+main: xyz.flarereturns.easyping.bukkit.Main
+commands:
+  ping:
+    description: Ping Command
+    aliases: [pong, latency]
